@@ -1,7 +1,7 @@
 # Nexus Releases
 
 Changelogs, downloads, and the public issue tracker for the
-[Nexus](https://getnexus.app) desktop app.
+[Nexus]() desktop app.
 
 > Nexus is closed-source software. This repository does not contain —
 > and will not accept pull requests containing — application source
@@ -11,12 +11,6 @@ Changelogs, downloads, and the public issue tracker for the
 ## 📥 Download
 
 Get the latest version at **[download]()**.
-
-## 📋 Changelog
-
-See [CHANGELOG.md](./CHANGELOG.md) for a full version history, or check
-the [Releases](https://github.com/getnexusapp/releases/releases) tab for
-per-version notes and downloads.
 
 ## 🐛 Found a bug? Have an idea?
 
