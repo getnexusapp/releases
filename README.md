@@ -10,7 +10,7 @@ Changelogs, downloads, and the public issue tracker for the
 
 ## 📥 Download
 
-Get the latest version at **[getnexus.app/download](https://getnexus.app/download)**.
+Get the latest version at **[download]()**.
 
 ## 📋 Changelog
 
