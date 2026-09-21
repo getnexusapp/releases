@@ -1,7 +1,7 @@
 # Nexus Releases
 
 Changelogs, downloads, and the public issue tracker for the
-[Nexus]() desktop app.
+[Nexus](https://letnexusout.vercel.app) desktop app.
 
 > Nexus is closed-source software. This repository does not contain —
 > and will not accept pull requests containing — application source
