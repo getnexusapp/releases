@@ -10,7 +10,7 @@ Changelogs, downloads, and the public issue tracker for the
 
 ## 📥 Download
 
-Get the latest version at **[download](https://nexusworkspace.net/#download)**.
+Get the latest version at **[Download](https://nexusworkspace.net/#download)**.
 
 ## 🐛 Found a bug? Have an idea?
 
